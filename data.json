@@ -1,0 +1,17 @@
+{ 
+           "1":{
+               "name":"pankaj",
+               "skill":"python",
+               "city":"Noida"
+           },
+           "2":{
+               "name":"Rajesh",
+               "skill":"Java",
+               "city":"Pune"
+           },
+           "3":{
+               "name":"Manoj",
+               "skill":"Java",
+               "city":"Us"
+           }
+    }
